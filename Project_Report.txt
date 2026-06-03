@@ -1,0 +1,29 @@
+PROJECT REPORT OUTLINE
+
+Title:
+Predicting Weekly Bollworm Infestation Probability in Cotton Crops
+
+Features:
+1. Temperature Cumulative Degree Days
+2. Humidity
+3. Crop Age
+
+Target:
+Bollworm Infestation (0/1)
+
+Workflow:
+Data Collection
+Data Preprocessing
+Feature Selection
+Model Training
+Model Evaluation
+Probability Calibration (Platt Scaling)
+
+Expected Output:
+Probability of bollworm infestation for each plot.
+
+Advantages:
+- Early pest detection
+- Reduced pesticide usage
+- Better crop management
+- Data-driven decisions
